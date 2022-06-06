@@ -30,7 +30,7 @@ const Main = () => (
         />
     </NextLink>
 
-    <NextLink passHref href='' >
+    <NextLink passHref href='https://chat.whatsapp.com/GNn4oyJRXB07iwVlSUDVG4' >
       <S.Illustration
         src="/img/wp_deleyjr.jpg"
         alt="Entra no grupo do WhatsApp do Deleyjr"
