@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 import Main from 'components/Main'
+import GlobalStyles from 'styles/global';
 
 const Wrapper = styled.div`
   
@@ -18,9 +19,11 @@ export default function Home() {
           name="description"
           content="Site pessoal de Wanderley Junior"
         />
+
     <Wrapper>
       <Main />
     </Wrapper>
+              <GlobalStyles />
     </>
   )
 }

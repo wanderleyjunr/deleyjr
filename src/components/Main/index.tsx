@@ -5,7 +5,7 @@ import * as S from './styles'
 const Main = () => (
   <S.Wrapper>  
     
-    <NextLink passHref href='https://deleyjr.com/' prefetch>
+    <NextLink passHref href='' >
       <a>
       <S.Illustration
         src="/img/livro_deleyjr.jpg"
@@ -14,7 +14,7 @@ const Main = () => (
       </a>
     </NextLink>  
     
-    <NextLink passHref href='https://www.youtube.com/channel/UCqgnO9NMICuDQrY5CT6YqrQ' prefetch >
+    <NextLink passHref href='https://www.youtube.com/channel/UCqgnO9NMICuDQrY5CT6YqrQ'  >
       <a>
         <S.Illustration
           src="/img/yt_deleyjr.jpg"
